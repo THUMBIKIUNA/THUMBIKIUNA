@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Who is Eng. Thumbi Kiuna:
 🔭 I’m a Medical Engineer by Profession and currently working as Backend Software Developer<br>👯 I’ve worked on various Tech Projects such as Blockchain Data, Pata - Boma and AfyaPro<br>🤝 I’ve done several projects in the field of Medical Engineering revolving around Embedded systems, Medical Imaging, Renal Health, Electrical and Electronic Repairs, Intallation, Design and Management<br>🌱 Aspiring to know more each day
 
 
